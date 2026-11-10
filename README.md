@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=230&section=header&text=Abhinav%20Chutani&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20across%20AI%2C%20finance%20%26%20hardware&descAlignY=60&descSize=20&v=2" width="100%" alt="Abhinav Chutani" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=230&section=header&text=Abhinav%20Chutani&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20across%20AI%20finance%20and%20hardware&descAlignY=60&descSize=20" width="100%" alt="Abhinav Chutani" />
 
 <picture>
   <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&height=60&lines=Hi+lol;Leader.+Planner.+Director.;Economics+%26+Business+%40+Aalto" />
