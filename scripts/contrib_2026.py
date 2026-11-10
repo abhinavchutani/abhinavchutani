@@ -78,6 +78,7 @@ def render(weeks, theme):
 
 
 def main():
+    os.makedirs("assets", exist_ok=True)
     weeks = fetch_weeks()
     for theme in PALETTES:
         svg, total = render(weeks, theme)
